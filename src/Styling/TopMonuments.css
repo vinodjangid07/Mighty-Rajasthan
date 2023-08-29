@@ -1,0 +1,15 @@
+.TopMonumentsContainer{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 80px 150px;
+}
+.TopMonumentsHeading{
+    font-size: 4rem;
+    color: #000000;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
