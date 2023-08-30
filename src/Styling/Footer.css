@@ -12,7 +12,7 @@
     display: flex;
     align-items: flex-start;
     justify-content: center;
-    padding: 80px 0;
+    padding: 80px 10px;
 }
 .copyrightSection{
     width: 100%;
@@ -38,19 +38,31 @@
     height: fit-content;
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 8px;
 }
 .LinksContainer h1{
     color: white;
     font-size: 2.4rem;
     font-weight: 400;
-    margin-bottom: 20px;
+    margin-bottom: 16px;
 }
 .LinksContainer a{
+    width: fit-content;
     text-decoration: none;
     color: rgb(160, 160, 160);
     font-size: 1.7rem;
 }
 .LinksContainer a:hover{
     color: rgb(255, 111, 58);
+}
+.LinksContainer a svg{
+    fill: white;
+    height: 3rem;
+}
+.svgContainer{
+    display: flex;
+    gap: 25px;
+}
+.LinksContainer a svg:hover{
+    fill: rgb(255, 111, 58);
 }
