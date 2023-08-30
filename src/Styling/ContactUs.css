@@ -80,6 +80,7 @@
     cursor: pointer;
     border-radius: 6px;
     box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.084), 0px 2px 3px rgba(0, 0, 0, 0.168);
+    transition: all .3s;
   }
   
   .form-container .form-submit-btn:hover {
@@ -120,4 +121,12 @@
   .form-container .form-group textarea:focus {
     outline: none;
     border-color: #1778f2;
+  }
+  .sendSvg{
+    fill: white;
+    transition: all .3s;
+  }
+  .form-submit-btn:hover .sendSvg{
+    transform: translate(5px ,-2px);
+   
   }
