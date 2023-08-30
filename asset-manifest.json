@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mighty-Rajasthan/static/css/main.6fee93f8.css",
+    "main.css": "/Mighty-Rajasthan/static/css/main.d6acba0e.css",
     "main.js": "/Mighty-Rajasthan/static/js/main.3342b927.js",
     "static/js/787.6fc87f35.chunk.js": "/Mighty-Rajasthan/static/js/787.6fc87f35.chunk.js",
     "static/media/nahargarh.jpg": "/Mighty-Rajasthan/static/media/nahargarh.30c7acc3a6f08ed359d9.jpg",
@@ -12,15 +12,16 @@
     "static/media/MonumentsJalMahal.png": "/Mighty-Rajasthan/static/media/MonumentsJalMahal.466a3d7506cc20f9eb9f.png",
     "static/media/MonumentsHawaMahal.jpg": "/Mighty-Rajasthan/static/media/MonumentsHawaMahal.2d512bda9abc0962dc06.jpg",
     "static/media/amer.jpg": "/Mighty-Rajasthan/static/media/amer.c3550e996bad06c896e7.jpg",
+    "static/media/contactusbg.png": "/Mighty-Rajasthan/static/media/contactusbg.6152388eb2dc25652ed1.png",
     "static/media/momentous holidays logo.png": "/Mighty-Rajasthan/static/media/momentous holidays logo.21e9e42e634c804e2475.png",
     "static/media/Asset6@4x.png": "/Mighty-Rajasthan/static/media/Asset6@4x.b1d0153426444550ae29.png",
     "index.html": "/Mighty-Rajasthan/index.html",
-    "main.6fee93f8.css.map": "/Mighty-Rajasthan/static/css/main.6fee93f8.css.map",
+    "main.d6acba0e.css.map": "/Mighty-Rajasthan/static/css/main.d6acba0e.css.map",
     "main.3342b927.js.map": "/Mighty-Rajasthan/static/js/main.3342b927.js.map",
     "787.6fc87f35.chunk.js.map": "/Mighty-Rajasthan/static/js/787.6fc87f35.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fee93f8.css",
+    "static/css/main.d6acba0e.css",
     "static/js/main.3342b927.js"
   ]
 }
