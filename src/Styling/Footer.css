@@ -5,6 +5,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: 150px;
 }
 .FooterContainer{
     width: 90%;
@@ -12,7 +13,7 @@
     display: flex;
     align-items: flex-start;
     justify-content: center;
-    padding: 80px 10px;
+    padding: 75px 10px;
 }
 .copyrightSection{
     width: 100%;
@@ -28,9 +29,9 @@
     align-items: center;
     justify-content: center;
     font-size: 1.7rem;
-    color: white;
-    font-weight: 500;
-    border-top: 2px solid rgb(48, 48, 48);
+    color: rgb(160, 160, 160);
+    font-weight: 400;
+    border-top: 1px solid rgb(196, 196, 196);
     padding: 15px 0px;
 }
 .LinksContainer{
@@ -66,3 +67,66 @@
 .LinksContainer a svg:hover{
     fill: rgb(255, 111, 58);
 }
+
+
+
+/* 
+###############################
+
+///////////your code//////////////
+
+###############################
+ */
+
+
+/* responsive code below*/
+@media screen and (max-width:1920px) {
+    html {
+        font-size: 60%;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    html {
+        font-size: 60%;
+    }
+}
+
+@media screen and (max-width:998px) {
+    html {
+        font-size: 55%;
+    }
+}
+
+@media screen and (max-width:768px) {
+    html {
+        font-size: 50%;
+    }
+ 
+}
+
+@media screen and (max-width:500px) {
+    html {
+        font-size: 45%;  
+    }
+
+}
+
+@media screen and (max-width:430px) {
+    html {
+        font-size: 43%;
+    }
+}
+
+@media screen and (max-width:375px) {
+    html {
+        font-size: 40%;
+    }
+}
+@media screen and (max-width:300px) {
+    html {
+        font-size: 40%;
+    }
+}
+
+/* responsive code above */

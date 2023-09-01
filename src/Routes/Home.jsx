@@ -1,6 +1,10 @@
 import React from 'react';
 import Slider from '../Components/Slider';
 import TopMonuments from '../Components/TopMonuments';
+import Day1 from '../Images/day1.png'
+import Day2 from '../Images/day2.png'
+import Day3 from '../Images/day3.png'
+
 export default function Home() {
   return (
     <>
@@ -14,6 +18,22 @@ export default function Home() {
         <h1 className='AccommodationHeading'>Accommodation</h1>
     </div>
     <TopMonuments/>
+
+    <div className="ActivityContainer">
+      <h1 className='sectionHeadings'>Activity</h1>
+
+      <div className="dayContainerWrapper">
+          <div className="dayContainer dayContainer1">
+            <img src={Day1} alt="" />
+          </div>
+          <div className="dayContainer dayContainer2">
+            <img src={Day2} alt="" />
+          </div>
+          <div className="dayContainer dayContainer3">
+            <img src={Day3} alt="" />
+          </div>
+      </div>
+    </div>
 </>
   )
 }

@@ -1,4 +1,5 @@
 import React from 'react'
+import '../Styling/About.css'
 import MomentousLogo from '../Images/momentous holidays logo.png'
 export default function About() {
   return (

@@ -106,3 +106,64 @@
   }
   
   
+
+/* 
+###############################
+
+///////////your code//////////////
+
+###############################
+ */
+
+
+/* responsive code below*/
+@media screen and (max-width:1920px) {
+  html {
+      font-size: 60%;
+  }
+}
+
+@media screen and (max-width:1200px) {
+  html {
+      font-size: 60%;
+  }
+}
+
+@media screen and (max-width:998px) {
+  html {
+      font-size: 55%;
+  }
+}
+
+@media screen and (max-width:768px) {
+  html {
+      font-size: 50%;
+  }
+
+}
+
+@media screen and (max-width:500px) {
+  html {
+      font-size: 45%;  
+  }
+
+}
+
+@media screen and (max-width:430px) {
+  html {
+      font-size: 43%;
+  }
+}
+
+@media screen and (max-width:375px) {
+  html {
+      font-size: 40%;
+  }
+}
+@media screen and (max-width:300px) {
+  html {
+      font-size: 40%;
+  }
+}
+
+/* responsive code above */
